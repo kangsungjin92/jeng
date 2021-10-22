@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="#">제네d질라</a>
+<a href="#">제네 </a>
 </body>
 </html>
